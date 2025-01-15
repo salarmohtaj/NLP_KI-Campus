@@ -1,0 +1,28 @@
+name: nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - nltk
+  - spacy
+  - pytorch
+  - transformers
+  - sentencepiece
+  - gensim
+  - tqdm
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipywidgets
+  - cython
+  - lxml
+  - beautifulsoup4
+  - requests
+  - regex
+  - pip:
+      - efficient-apriori
