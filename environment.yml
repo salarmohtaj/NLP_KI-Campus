@@ -12,6 +12,7 @@ dependencies:
   - spacy
   - pytorch
   - transformers
+  - accelerate
   - sentencepiece
   - gensim
   - tqdm
